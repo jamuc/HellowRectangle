@@ -1,6 +1,6 @@
 # hello_rectangle
 
-A hello world flutter project. It displays a green rectangle centered on the screen with a hellow world text. Nothing groundbreaking.
+A hello world flutter project. It displays a green rectangle centered on the screen with a hello world text. Nothing groundbreaking.
 
 
 ## Getting Started
